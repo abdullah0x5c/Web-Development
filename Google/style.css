@@ -1,8 +1,19 @@
 body{
-    background-color: yellow;
-    color: green;
-    font-size: 20px;
-    font-weight: lighter;
-    text-align: centre;
-    margin-top: 5px;
+    background: black;
 }
+
+#logo{
+    align-self: center;
+    margin-top: 100px;
+    width: 300px;
+    display: block;    
+}
+
+
+input {
+    align-self: center;
+    margin: 20px;
+    width: 400px;
+    display: block;
+}
+
